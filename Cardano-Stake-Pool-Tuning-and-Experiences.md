@@ -15,11 +15,15 @@ There are many folks within the community helping to try to make the
 network as solid as it can possibly be, and because I have used some
 of these efforts, I would like to give credit where it is due:
 
-[PoolTool](pooltool.io)
-[ADAPools](adapools.org)
-[Failover script](https://github.com/rdlrt/Alternate-Jormungandr-Testnet/blob/master/scripts/jormungandr-leaders-failover.sh)
-[Jormungandr for Newbs](https://github.com/Chris-Graffagnino/Jormungandr-for-Newbs/blob/master/docs/jormungandr_node_setup_guide.md)
-**_Need the link for ilap's document_**
+- [PoolTool](pooltool.io)
+
+- [ADAPools](adapools.org)
+
+- [Failover script](https://github.com/rdlrt/Alternate-Jormungandr-Testnet/blob/master/scripts/jormungandr-leaders-failover.sh)
+
+- [Jormungandr for Newbs](https://github.com/Chris-Graffagnino/Jormungandr-for-Newbs/blob/master/docs/jormungandr_node_setup_guide.md)
+
+- **_Need the link for ilap's document_**
 
 In addition, here are some recent defects to be aware of, at least during the initial Shelley ITN phase:
 
