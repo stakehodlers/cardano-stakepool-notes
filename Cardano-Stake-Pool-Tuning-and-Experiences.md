@@ -81,7 +81,7 @@ best possible distributed blockchain ecosystem.  We'll get there!
    the Intel node.  After watching a lengthy discussion on Telegram
    about rogue nodes that were creating massive numbers of connections
    to various stakepools, we paid closer attention to active tcp
-   connections.  The output of ```sh netstat -an | grep ESTABLISHED |
+   connections.  The output of ``` netstat -an | grep ESTABLISHED |
    wc -l``` showed ~750 active connections on the raspberry pi prior
    to shutting down the node and fully rebooting the hardware.  For
    the Intel node, the same command showed ~165 active connections
