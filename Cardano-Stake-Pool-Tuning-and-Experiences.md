@@ -150,3 +150,4 @@ best possible distributed blockchain ecosystem.  We'll get there!
    will best belong in the hands of the node operators.  Which
    features belong where will be clearer over time, and we must be
    patient to let that process play out naturally.
+7. Something definitely worth experimenting with, from Coconutpool on Telegram: "hey, heres something cool you might be interested in. you can use sqlite3 to query the block database directly and you can see what blocks had forks. priyank showed me this its pretty cool. apt install sqlite3 then run this query sqlite3 /path/to/sqlite.blocks "select depth from BlockInfo;" | sort -g its going to give you a long list of all the blocks, when you see double or tripple or more those are forked blocks... The database is full of interesting stuff like the number of fork links (not sure what that means) but lost of the data is serialized so you have to do some work on it to get the real data data out of it"
